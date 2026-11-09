@@ -1,0 +1,16 @@
+{
+  "routes": [
+    { "path": "/", "title": "نظرة عامة" },
+    { "path": "/candidates", "title": "المرشحون" },
+    { "path": "/jobs", "title": "الوظائف" },
+    { "path": "/pipeline", "title": "مسار التوظيف" },
+    { "path": "/interviews", "title": "المقابلات" },
+    { "path": "/questions", "title": "بنك الأسئلة" },
+    { "path": "/evaluations", "title": "التقييمات" },
+    { "path": "/integrations", "title": "التكاملات" },
+    { "path": "/notifications", "title": "التنبيهات" },
+    { "path": "/settings", "title": "الإعدادات" },
+    { "path": "/apply", "title": "التقديم" },
+    { "path": "/apply/:jobId", "title": "التقديم لوظيفة" }
+  ]
+}
